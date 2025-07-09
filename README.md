@@ -1,1 +1,3 @@
 # odin-recipes
+The project was to make a recipe page with the things i have learned in the beginning of this course. Like the use of HTML tags as p and headings 1 to 6. I learned how to use links, images, orderdlists, unorderdlists. And how to build a good file structure. 
+And the extra was learning to work with Git and GitHub, how to make a repository and connect with Git and clone en push your projects. 
